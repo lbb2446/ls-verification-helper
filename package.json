@@ -1,0 +1,22 @@
+{
+  "name": "ls-verification-helper",
+  "version": "1.0.0",
+  "description": "for lishi work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbb2446/ls-verification-helper.git"
+  },
+  "keywords": [
+    "verification"
+  ],
+  "author": "lbb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbb2446/ls-verification-helper/issues"
+  },
+  "homepage": "https://github.com/lbb2446/ls-verification-helper#readme"
+}
